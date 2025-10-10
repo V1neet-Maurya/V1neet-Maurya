@@ -1,3 +1,5 @@
+![logo](https://github.com/V1neet-Maurya/V1neet-Maurya/blob/main/Screenshot%202025-10-10%20190448.png)
+
 <h1 align="center">Hi 👋, I'm Vineet Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
