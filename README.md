@@ -1,7 +1,7 @@
 ![logo](https://github.com/V1neet-Maurya/V1neet-Maurya/blob/main/Screenshot%202025-10-10%20190448.png)
 
 <h1 align="center">Hi 👋, I'm Vineet Maurya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Java Full Stack developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.cf02548a1c49b078142fd790db1fa7e1?o=7&cb=12&pid=1.7&rm=3&rurl=https%3a%2f%2fgifdb.com%2fimages%2fhigh%2fanimated-chock-coding-c78f6elj32sfoi8q.gif&ehk=xsSFeXjdlX4GTlAQxWgACt6PBJmrAgujEppivEXAQz8%3d" />
 
